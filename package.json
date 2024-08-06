@@ -1,7 +1,7 @@
 {
   "name": "todo-task",
   "version": "1.0.0",
-  "description": "todo-task - Final project to subject web service - soa from ParquesoftTI.",
+  "description": "todo-task - Final project for the web service - SOA Course from ParquesoftTI.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
