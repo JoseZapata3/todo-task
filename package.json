@@ -1,13 +1,13 @@
 {
   "name": "todo-task",
   "version": "1.0.0",
+  "description": "todo-task - Final project to subject web service - soa from ParquesoftTI.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jose A. Zapata",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.19.2"
   }
